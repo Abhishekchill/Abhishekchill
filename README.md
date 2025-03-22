@@ -1,6 +1,7 @@
-![github-header-image](https://github.com/user-attachments/assets/ae157165-c529-4f55-b660-6479d7962f6a)
-<h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
+![github-header-image (1)](https://github.com/user-attachments/assets/ae960330-7c78-4cc2-aeea-6551e6dd03d6)
+
+
+<h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekchill&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekchill" /> </p>
@@ -9,7 +10,7 @@
 
 - 🌱 I’m currently learning **React Native,DevOps**
 
-- 💬 Ask me about **Web-devlopment,Android,uiux**
+- 💬 Ask me about **Web-dev,App-dev,uiux**
 
 - 📫 How to reach me **abhishekdev401@gmail.com**
 
