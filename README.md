@@ -28,5 +28,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekchill&show_icons=true&locale=en" alt="abhishekchill" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekchill&" alt="abhishekchill" /> </p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Abhishekchill&theme=dark" alt="GitHub Streak" /></a>
 
