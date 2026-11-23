@@ -5,13 +5,14 @@
 
 <p align="center">
   <a href="https://github.com/Abhishekchill">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=820&lines=Building+India's+hyperlocal+fashion+infra+%F0%9F%9B%8D%EF%B8%8F;Fashion+delivered+in+30%E2%80%9390+minutes+%E2%9A%A1;Real-time+logistics+%C2%B7+AI+inventory+%C2%B7+mobile;Speed+is+a+feature." alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=820&lines=I+build+technology+that+moves+at+the+speed+of+now.;Fashion+at+your+door+in+under+30+minutes+%E2%9A%A1;80%2B+brands+%C2%B7+AI+delivery+intelligence+%C2%B7+real-time+logistics;Hackathon+winner+%C2%B7+Hacker+House+%C2%B7+Powerlifter+%F0%9F%8F%8B%EF%B8%8F" alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhishekchill&label=Profile%20views&color=00d4ff&style=flat-square" alt="views"/>
-  <img src="https://img.shields.io/github/followers/Abhishekchill?label=Followers&style=flat-square&color=302b63" alt="followers"/>
+  <img src="https://img.shields.io/github/followers/Abhishekchill?label=GitHub%20followers&style=flat-square&color=302b63" alt="followers"/>
+  <a href="https://www.linkedin.com/in/abhishekkumar-dev/"><img src="https://img.shields.io/badge/LinkedIn-1.5k%2B%20followers-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn followers"/></a>
   <img src="https://img.shields.io/badge/Based%20in-Bengaluru%20🇮🇳-0f0c29?style=flat-square" alt="location"/>
 </p>
 
@@ -21,20 +22,26 @@
 
 ```ts
 const abhishek = {
-  role:      "Co-Founder & CTO @ Skipp",
-  building:  "Hyperlocal fashion, delivered in minutes",
-  base:      "Bengaluru, India 🇮🇳",
-  modes:     ["CTO & operator", "Systems thinker", "Product engineer", "Builder"],
-  obsessions:["real-time logistics", "AI-driven inventory", "sub-second mobile UX"],
-  motto:     "Speed is a feature. Good systems compound.",
+  role:       ["Co-Founder & CTO @ Skipp", "Director @ Zwoop Technologies"],
+  building:   "India's first hyperlocal fast-fashion platform",
+  promise:    "Branded fashion at your door in under 30 minutes",
+  base:       "Bengaluru, India 🇮🇳",
+  stack:      ["React Native", "Next.js", "Node.js", "PostgreSQL", "AWS"],
+  community:  "Hacker House — builders who ship daily",
+  offKeyboard:"🏋️ State-level powerlifter · 🤼 Kabaddi",
+  motto:      "Consistency compounds.",
 };
 ```
 
-I lead engineering at **Skipp** — a quick-commerce platform delivering branded fashion in **30–90 minutes** across Indian metros. I design and run the full stack, from cloud infra to the React Native experience, optimising for **execution speed** and **system reliability**.
+> **Not next week. Not tomorrow. Within the same hour you hit order.**
+
+I lead engineering at **Skipp**, India's first hyperlocal fast-fashion platform. We're building a real-time fashion network across Bengaluru: **inventory APIs from 80+ brands**, **AI-driven delivery intelligence**, and **logistics systems optimised for speed**. The goal is to make fashion shopping feel as instant as ordering food.
+
+As **Director at Zwoop Technologies**, I'm also building the operating system for lifestyle commerce, which powers brands including **Skipp** and **Alligator**.
 
 ---
 
-## 🛍️ What I'm building — **Skipp**
+## 🛍️ What I'm building
 
 <table>
   <tr>
@@ -45,20 +52,22 @@ I lead engineering at **Skipp** — a quick-commerce platform delivering branded
 - Live order & delivery-partner tracking
 - Offline-first, sub-second interactions
 
-**⚙️ Core Systems**
-- Real-time inventory & order orchestration
-- Flash-sale & surge-proof commerce engine
+**🔌 Brand Network**
+- Inventory APIs integrated from 80+ brands
+- Vendor & API integration at scale
+- Fashion, beauty & luxury in 30 minutes
 
   </td>
     <td width="50%" valign="top">
 
-**🧠 AI Logistics**
-- Demand forecasting
-- Route optimisation & dynamic slotting
-- Smart batching & dynamic ETAs
+**🧠 AI Delivery Intelligence**
+- Demand forecasting & dynamic ETAs
+- Route optimisation & smart batching
+- Inventory rebalancing across dark stores
 
-**☁️ Infrastructure**
-- Node.js · PostgreSQL · Redis on AWS
+**☁️ Real-time Infrastructure**
+- Thousands of real-time requests per minute
+- Node.js · PostgreSQL · Redis · WebSockets on AWS
 - Event-driven, monorepo, CI/CD everywhere
 
   </td>
@@ -70,44 +79,73 @@ I lead engineering at **Skipp** — a quick-commerce platform delivering branded
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,postgres,redis,prisma,aws,docker,nginx,githubactions,linux&perline=7" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,kotlin,react,nextjs,redux,tailwind,nodejs,express,postgres,mongodb,redis,firebase,prisma,aws,docker,vercel,nginx,githubactions,linux,androidstudio&perline=11" alt="skills"/>
 </p>
 
-| 🎨 Frontend | 🔧 Backend | ☁️ Infra | 🤖 AI / Automation |
-|:--|:--|:--|:--|
-| React · Next.js · React Native · TypeScript · Tailwind · Expo | Node.js · Fastify · PostgreSQL · Redis · Drizzle · Prisma | AWS · Docker · Nginx · GitHub Actions · Linux | OpenAI · LangChain · Vector DBs · Automation pipelines |
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
+  <img src="https://img.shields.io/badge/Drizzle_ORM-0f0c29?style=for-the-badge&logo=drizzle&logoColor=C5F74F" alt="Drizzle"/>
+  <img src="https://img.shields.io/badge/Neon_DB-0f0c29?style=for-the-badge&logo=postgresql&logoColor=00E599" alt="Neon"/>
+  <img src="https://img.shields.io/badge/Neo4j-0f0c29?style=for-the-badge&logo=neo4j&logoColor=4581C3" alt="Neo4j"/>
+  <img src="https://img.shields.io/badge/shadcn%2Fui-0f0c29?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn"/>
+  <img src="https://img.shields.io/badge/Arcjet-0f0c29?style=for-the-badge&logoColor=white" alt="Arcjet"/>
+  <img src="https://img.shields.io/badge/WebSockets-0f0c29?style=for-the-badge&logo=socketdotio&logoColor=00d4ff" alt="WebSockets"/>
+  <img src="https://img.shields.io/badge/OpenAI-0f0c29?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/LangChain-0f0c29?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+</p>
 
-> **Architecture:** Monorepos (Turborepo) · event-driven systems · REST & async APIs · real-time WebSocket layers · CI/CD for mobile & backend
+| 🎨 Frontend & Mobile | 🔧 Backend & Data | ☁️ Cloud & DevOps | 🤖 AI / ML |
+|:--|:--|:--|:--|
+| React · Next.js · React Native · Expo · TypeScript · Redux · Tailwind · shadcn/ui · Kotlin (Android) | Node.js · Express · Fastify · REST · WebSockets · PostgreSQL · Neon · MongoDB · Redis · Neo4j · Drizzle · Prisma · Firebase | AWS (EC2, S3) · Docker · Vercel · Nginx · GitHub Actions · CI/CD · Linux | OpenAI · LangChain · Vector DBs · Machine Learning · Data Analysis |
+
+> **How I build:** System Design · Software Architecture · Cloud Architecture · Database Design · Performance Optimisation & Scaling · Technical Roadmapping
 
 ---
 
-## 🏆 Highlights
+## 🚀 The Journey
 
-| | |
-|:--:|:--|
-| 🚀 | **Co-founded Skipp** — hyperlocal fashion commerce from zero to city-wide operations |
-| 🥇 | **Multiple hackathon wins** — national-level product builds shipped in under 36 hours |
-| 📈 | **Scaled real-time systems** — backend handling thousands of concurrent orders |
-| 👥 | **Engineering leadership** — built and mentored a product-focused team from scratch |
+| | Role | What I did |
+|:--:|:--|:--|
+| 🛍️ | **Co-Founder & CTO · Skipp**<br/><sub>Nov 2024 – Present</sub> | Building the scalable tech behind 30-minute fashion, beauty & luxury commerce |
+| 🏢 | **Director · Zwoop Technologies**<br/><sub>Mar 2025 – Present</sub> | Building the operating system for lifestyle commerce (Skipp, Alligator) |
+| 🛒 | **Software Engineer · bigbasket**<br/><sub>Feb 2024 – Jul 2024</sub> | Backend systems & real-time workflows for India's quick-commerce at scale |
+| 🎤 | **Founder · Flip**<br/><sub>Jun 2023 – Dec 2023</sub> | AI mock-interview platform with question generation, scoring & adaptive feedback |
+| 🎌 | **Founder & CTO · Anime Unwatched**<br/><sub>Mar 2023 – Jun 2023</sub> | Anime discovery & community platform, from concept to live in 4 months |
+| 📚 | **Developer · 1Learns**<br/><sub>Jul 2022 – Dec 2022</sub> | Built the EdTech platform, taught Web, Android & Data Science courses |
+| 🌱 | **Web Developer · Garden Nectar Nursery**<br/><sub>Jan 2022 – May 2022</sub> | Full-stack e-commerce platform for plants & gardening |
+
+<sub>Also built: <b>Aura</b>, a self-care journaling app focused on mental well-being 🧘</sub>
+
+---
+
+## 🏆 Wins
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🥇_1st_Prize-BTI_Hackathon-FFD700?style=for-the-badge&labelColor=0f0c29" alt="BTI"/>
+  <img src="https://img.shields.io/badge/🥇_1st_Prize-RRCE_Byte--for--Bait_Ideathon-FFD700?style=for-the-badge&labelColor=0f0c29" alt="RRCE"/>
+  <img src="https://img.shields.io/badge/🥈_2nd_Prize-BNMIT_Think_Tank_Ideathon-C0C0C0?style=for-the-badge&labelColor=0f0c29" alt="BNMIT"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🏋️_2nd_Place-Karnataka_State_Powerlifting-00d4ff?style=for-the-badge&labelColor=0f0c29" alt="Powerlifting"/>
+  <img src="https://img.shields.io/badge/🤼_Finalist-Taluk--level_Kabaddi-302b63?style=for-the-badge&labelColor=0f0c29" alt="Kabaddi"/>
+</p>
+
+> Countless weekends in hackathon rooms, building automation tools and AI experiments at 3 AM. 48-hour builds teach you what really matters: **systems that don't break when it counts.**
 
 ---
 
 ## 🎯 Current Focus
 
-- [x] Launch Skipp in Indian metros
-- [ ] Scale across more cities & increase delivery density
-- [ ] Deepen **AI logistics** — dynamic ETA, inventory rebalancing, intelligent batching
-- [ ] Push **mobile performance** — sub-second, offline-first
-- [ ] Ship reusable **real-time commerce primitives** across verticals
+- [x] Launch Skipp across Bengaluru with 80+ brand integrations
+- [ ] Scale to thousands of real-time requests per minute, then more cities
+- [ ] Deepen **AI logistics**: dynamic ETA, inventory rebalancing, intelligent batching
+- [ ] Push **mobile performance**: sub-second and offline-first
+- [ ] 🔥 **Hiring engineers** who care about speed, precision and purpose. [Reach out!](mailto:abhishek@skipp.co.in)
 
 ---
 
 ## 📊 GitHub Pulse
-
-<p align="center">
-<!-- stats -->
-<!-- langs -->
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Abhishekchill&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" alt="streak"/>
@@ -119,18 +157,22 @@ I lead engineering at **Skipp** — a quick-commerce platform delivering branded
 
 ---
 
-## 💭 Founder Philosophy
+## 💭 Philosophy
 
 <p align="center">
-  <code>Speed is a feature.</code> · <code>Good systems compound.</code> · <code>Build. Ship. Improve.</code><br/>
+  <code>Speed is a feature.</code> · <code>Consistency compounds.</code> · <code>Build. Ship. Improve.</code><br/>
   <code>Execution beats ideas.</code> · <code>Infrastructure is strategy.</code>
 </p>
 
-<p align="center"><i>Ship fast, measure relentlessly, and let strong primitives compound into durable advantage.</i></p>
+<p align="center"><i>The best products aren't designed in boardrooms. They're built in rooms full of people who can't stop coding.</i></p>
+
+<p align="center"><sub>Building strength and building systems share one truth: you show up, you lift heavy, you get better. 🏋️</sub></p>
 
 ---
 
 ## 🤝 Let's connect
+
+<p align="center"><b>Open to conversations with founders, investors and builders shaping what's next.</b><br/>Want to talk tech, quick commerce, or powerlifting? My DMs are open.</p>
 
 <p align="center">
   <a href="mailto:abhishek@skipp.co.in"><img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/></a>
