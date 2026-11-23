@@ -5,15 +5,13 @@
 
 <p align="center">
   <a href="https://github.com/Abhishekchill">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=820&lines=I+build+technology+that+moves+at+the+speed+of+now.;Fashion+at+your+door+in+under+30+minutes+%E2%9A%A1;80%2B+brands+%C2%B7+AI+delivery+intelligence+%C2%B7+real-time+logistics;Hackathon+winner+%C2%B7+Hacker+House+%C2%B7+Powerlifter+%F0%9F%8F%8B%EF%B8%8F" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=820&lines=I+build+technology+that+moves+at+the+speed+of+now.;Fashion+at+your+door+in+under+30+minutes+%E2%9A%A1;80%2B+brands+%C2%B7+AI+delivery+intelligence+%C2%B7+real-time+logistics;Speed+is+a+feature." alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhishekchill&label=Profile%20views&color=00d4ff&style=flat-square" alt="views"/>
-  <img src="https://img.shields.io/github/followers/Abhishekchill?label=GitHub%20followers&style=flat-square&color=302b63" alt="followers"/>
-  <a href="https://www.linkedin.com/in/abhishekkumar-dev/"><img src="https://img.shields.io/badge/LinkedIn-1.5k%2B%20followers-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn followers"/></a>
-  <img src="https://img.shields.io/badge/Based%20in-Bengaluru%20🇮🇳-0f0c29?style=flat-square" alt="location"/>
+  <img src="https://img.shields.io/badge/Co--Founder_%26_CTO-Skipp-00d4ff?style=flat-square&labelColor=0f0c29" alt="Skipp"/>
+  <img src="https://img.shields.io/badge/Based%20in-Bengaluru%20🇮🇳-302b63?style=flat-square&labelColor=0f0c29" alt="location"/>
 </p>
 
 ---
@@ -28,7 +26,7 @@ const abhishek = {
   base:       "Bengaluru, India 🇮🇳",
   stack:      ["React Native", "Next.js", "Node.js", "PostgreSQL", "AWS"],
   community:  "Hacker House — builders who ship daily",
-  offKeyboard:"🏋️ State-level powerlifter · 🤼 Kabaddi",
+  offKeyboard:"🏋️ Powerlifting",
   motto:      "Consistency compounds.",
 };
 ```
@@ -103,35 +101,28 @@ As **Director at Zwoop Technologies**, I'm also building the operating system fo
 
 ---
 
-## 🚀 The Journey
-
-| | Role | What I did |
-|:--:|:--|:--|
-| 🛍️ | **Co-Founder & CTO · Skipp**<br/><sub>Nov 2024 – Present</sub> | Building the scalable tech behind 30-minute fashion, beauty & luxury commerce |
-| 🏢 | **Director · Zwoop Technologies**<br/><sub>Mar 2025 – Present</sub> | Building the operating system for lifestyle commerce (Skipp, Alligator) |
-| 🛒 | **Software Engineer · bigbasket**<br/><sub>Feb 2024 – Jul 2024</sub> | Backend systems & real-time workflows for India's quick-commerce at scale |
-| 🎤 | **Founder · Flip**<br/><sub>Jun 2023 – Dec 2023</sub> | AI mock-interview platform with question generation, scoring & adaptive feedback |
-| 🎌 | **Founder & CTO · Anime Unwatched**<br/><sub>Mar 2023 – Jun 2023</sub> | Anime discovery & community platform, from concept to live in 4 months |
-| 📚 | **Developer · 1Learns**<br/><sub>Jul 2022 – Dec 2022</sub> | Built the EdTech platform, taught Web, Android & Data Science courses |
-| 🌱 | **Web Developer · Garden Nectar Nursery**<br/><sub>Jan 2022 – May 2022</sub> | Full-stack e-commerce platform for plants & gardening |
-
-<sub>Also built: <b>Aura</b>, a self-care journaling app focused on mental well-being 🧘</sub>
-
----
-
-## 🏆 Wins
+## 🧭 Journey
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🥇_1st_Prize-BTI_Hackathon-FFD700?style=for-the-badge&labelColor=0f0c29" alt="BTI"/>
-  <img src="https://img.shields.io/badge/🥇_1st_Prize-RRCE_Byte--for--Bait_Ideathon-FFD700?style=for-the-badge&labelColor=0f0c29" alt="RRCE"/>
-  <img src="https://img.shields.io/badge/🥈_2nd_Prize-BNMIT_Think_Tank_Ideathon-C0C0C0?style=for-the-badge&labelColor=0f0c29" alt="BNMIT"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/🏋️_2nd_Place-Karnataka_State_Powerlifting-00d4ff?style=for-the-badge&labelColor=0f0c29" alt="Powerlifting"/>
-  <img src="https://img.shields.io/badge/🤼_Finalist-Taluk--level_Kabaddi-302b63?style=for-the-badge&labelColor=0f0c29" alt="Kabaddi"/>
+  <img src="https://img.shields.io/badge/2022-Garden_Nectar-302b63?style=flat-square&labelColor=0f0c29" alt="Garden Nectar"/>
+  <sub>→</sub>
+  <img src="https://img.shields.io/badge/2022-1Learns-302b63?style=flat-square&labelColor=0f0c29" alt="1Learns"/>
+  <sub>→</sub>
+  <img src="https://img.shields.io/badge/2023-Anime_Unwatched-302b63?style=flat-square&labelColor=0f0c29" alt="Anime Unwatched"/>
+  <sub>→</sub>
+  <img src="https://img.shields.io/badge/2023-Flip-302b63?style=flat-square&labelColor=0f0c29" alt="Flip"/>
+  <sub>→</sub>
+  <img src="https://img.shields.io/badge/2024-bigbasket-302b63?style=flat-square&labelColor=0f0c29" alt="bigbasket"/>
+  <sub>→</sub>
+  <img src="https://img.shields.io/badge/2024-Skipp-00d4ff?style=flat-square&labelColor=0f0c29" alt="Skipp"/>
+  <sub>→</sub>
+  <img src="https://img.shields.io/badge/2025-Zwoop-00d4ff?style=flat-square&labelColor=0f0c29" alt="Zwoop"/>
 </p>
 
-> Countless weekends in hackathon rooms, building automation tools and AI experiments at 3 AM. 48-hour builds teach you what really matters: **systems that don't break when it counts.**
+<p align="center"><sub>From freelance builds and side projects to quick commerce at scale, now building Skipp.</sub></p>
+
+
+
 
 ---
 
@@ -145,11 +136,7 @@ As **Director at Zwoop Technologies**, I'm also building the operating system fo
 
 ---
 
-## 📊 GitHub Pulse
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abhishekchill&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" alt="streak"/>
-</p>
+## 📊 Activity
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishekchill&bg_color=0d1117&color=00d4ff&line=302b63&point=ffffff&area=true&area_color=302b63&hide_border=true" alt="activity graph"/>
