@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Abhishekchill">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=820&lines=I+build+technology+that+moves+at+the+speed+of+now.;Fashion+at+your+door+in+under+30+minutes+%E2%9A%A1;80%2B+brands+%C2%B7+AI+delivery+intelligence+%C2%B7+real-time+logistics;Speed+is+a+feature." alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=820&lines=I+build+technology+that+moves+at+the+speed+of+now.;30-min+fashion+in+Bengaluru%2C+Delhi+%26+Mumbai+%E2%9A%A1;237%2B+brands+%C2%B7+95k%2B+SKUs+%C2%B7+live+across+India;Speed+is+a+feature." alt="Typing SVG"/>
   </a>
 </p>
 
@@ -23,6 +23,8 @@ const abhishek = {
   role:       ["Co-Founder & CTO @ Skipp", "Director @ Zwoop Technologies"],
   building:   "India's first hyperlocal fast-fashion platform",
   promise:    "Branded fashion at your door in under 30 minutes",
+  live:       { "30-min": ["Bengaluru", "Delhi", "Mumbai"], sameDay: "11 cities", nextDay: "Pan-India" },
+  catalog:    { brands: "237+", skus: "95k+" },
   base:       "Bengaluru, India 🇮🇳",
   stack:      ["React Native", "Next.js", "Node.js", "PostgreSQL", "AWS"],
   community:  "Hacker House — builders who ship daily",
@@ -33,13 +35,23 @@ const abhishek = {
 
 > **Not next week. Not tomorrow. Within the same hour you hit order.**
 
-I lead engineering at **Skipp**, India's first hyperlocal fast-fashion platform. We're building a real-time fashion network across Bengaluru: **inventory APIs from 80+ brands**, **AI-driven delivery intelligence**, and **logistics systems optimised for speed**. The goal is to make fashion shopping feel as instant as ordering food.
+I lead engineering at **Skipp**, India's first hyperlocal fast-fashion platform. We're building a real-time fashion network across India: **237+ brands and 95k+ SKUs**, **30-minute delivery in Bengaluru, Delhi and Mumbai**, **same-day delivery in 11 cities** and **next-day delivery everywhere else**, all powered by **AI-driven delivery intelligence** and **logistics systems optimised for speed**. The goal is to make fashion shopping feel as instant as ordering food.
 
 As **Director at Zwoop Technologies**, I'm also building the operating system for lifestyle commerce, which powers brands including **Skipp** and **Alligator**.
 
 ---
 
 ## 🛍️ What I'm building
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡_30--min-Bengaluru_·_Delhi_·_Mumbai-00d4ff?style=for-the-badge&labelColor=0f0c29" alt="30-minute delivery"/>
+  <img src="https://img.shields.io/badge/📦_Same--day-11_cities-302b63?style=for-the-badge&labelColor=0f0c29" alt="Same-day delivery"/>
+  <img src="https://img.shields.io/badge/🚚_Next--day-Pan--India-302b63?style=for-the-badge&labelColor=0f0c29" alt="Next-day delivery"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🏷️_Brands-237%2B-00d4ff?style=for-the-badge&labelColor=0f0c29" alt="237+ brands"/>
+  <img src="https://img.shields.io/badge/👕_SKUs-95k%2B-00d4ff?style=for-the-badge&labelColor=0f0c29" alt="95k+ SKUs"/>
+</p>
 
 <table>
   <tr>
@@ -51,9 +63,9 @@ As **Director at Zwoop Technologies**, I'm also building the operating system fo
 - Offline-first, sub-second interactions
 
 **🔌 Brand Network**
-- Inventory APIs integrated from 80+ brands
-- Vendor & API integration at scale
-- Fashion, beauty & luxury in 30 minutes
+- 237+ brands and 95k+ SKUs, synced in real time
+- Vendor & inventory API integration at scale
+- Fashion, beauty & luxury, from 30 minutes to next day
 
   </td>
     <td width="50%" valign="top">
@@ -61,7 +73,7 @@ As **Director at Zwoop Technologies**, I'm also building the operating system fo
 **🧠 AI Delivery Intelligence**
 - Demand forecasting & dynamic ETAs
 - Route optimisation & smart batching
-- Inventory rebalancing across dark stores
+- Inventory rebalancing across cities & dark stores
 
 **☁️ Real-time Infrastructure**
 - Thousands of real-time requests per minute
@@ -121,17 +133,17 @@ As **Director at Zwoop Technologies**, I'm also building the operating system fo
 
 <p align="center"><sub>From freelance builds and side projects to quick commerce at scale, now building Skipp.</sub></p>
 
-
-
-
 ---
 
 ## 🎯 Current Focus
 
-- [x] Launch Skipp across Bengaluru with 80+ brand integrations
-- [ ] Scale to thousands of real-time requests per minute, then more cities
-- [ ] Deepen **AI logistics**: dynamic ETA, inventory rebalancing, intelligent batching
-- [ ] Push **mobile performance**: sub-second and offline-first
+- [x] 30-minute delivery live in **Bengaluru, Delhi & Mumbai**
+- [x] Same-day delivery in **11 cities**, next-day **across India**
+- [x] **237+ brands** and **95k+ SKUs** on the platform
+- [ ] Take 30-minute delivery to more metros
+- [ ] Scale real-time inventory sync & orchestration across cities and brands
+- [ ] Deepen **AI logistics**: dynamic ETAs, cross-city inventory rebalancing, smart batching
+- [ ] Keep the apps fast: sub-second, offline-first
 - [ ] 🔥 **Hiring engineers** who care about speed, precision and purpose. [Reach out!](mailto:abhishek@skipp.co.in)
 
 ---
